@@ -1,0 +1,57 @@
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\BTL WINFORM.exe.config
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\BTL WINFORM.exe
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\BTL WINFORM.pdb
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL_WINFORM.Properties.Resources.resources
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL WINFORM.csproj.GenerateResource.cache
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL WINFORM.csproj.CoreCompileInputs.cache
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL WINFORM.exe
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL WINFORM.pdb
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL WINFORM.csprojAssemblyReference.cache
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL_WINFORM.CHAO.resources
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL_WINFORM.LOGIN.resources
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL WINFORM.csproj.CopyComplete
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL_WINFORM.chon.resources
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL_WINFORM.BANVE.resources
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL_WINFORM.DKKHTT.resources
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL_WINFORM.film.resources
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL_WINFORM.QUANLYNV.resources
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL_WINFORM.QLRAP.resources
+C:\Users\khang\source\repos\BTL WINFORM\BTL WINFORM\obj\Debug\BTL_WINFORM.THONGKE.resources
